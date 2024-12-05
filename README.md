@@ -1,3 +1,3 @@
 # SkillLearner
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/jaisheel15/SkillLearner)
+A Skill learning platform 
